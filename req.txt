@@ -1,3 +1,6 @@
 Welcome to telusko learning
 
 Python
+Java
+SQL
+Github
